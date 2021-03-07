@@ -1,2 +1,2 @@
 # twitterAPIClient
-an API Client for Twitter
+an API Testing Client for Twitter
